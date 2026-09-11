@@ -3,6 +3,25 @@
 ## Date: 11-09-2026
 
 **Today's Work:**
+- Solved 5 assignment problems for Session 5 (Topic: `session_5_assignment`) covering array modification by reference, nested loops duplicate checking, single-pass min/max tracking, 2D array row averaging, and auto-draft ranking with `Comparable<Player>` and method overloading:
+  1. Fantasy Team Score Multiplier (`FantasyTeamScoreMultiplier.java`)
+  2. Duplicate Player Pick Checker (`DuplicatePlayerPickChecker.java`)
+  3. Top Performer Tracker (`TopPerformerTracker.java`)
+  4. Match Day Grid Analyzer (`MatchDayGridAnalyzer.java`)
+  5. Fantasy League Auto-Draft Ranking Engine (`Player.java`, `FantasyLeagueAutoDraftRankingEngine.java`)
+- Created clean package directory structure under `src/main/java/session_5_assignment/` with `class_problems/` and `assigment_problems/`.
+- Verified compilation and tested all sample test cases successfully.
+- Committed and pushed the implementation to branch `feature/session_5`.
+
+**Next Session Plan:**
+- Work on Session 6 class and assignment problems.
+
+**Issues Faced:**
+- None
+
+## Date: 11-09-2026
+
+**Today's Work:**
 - Solved 5 assignment problems for Session 4 (Topic: `session_4_assignment`) covering arrays, prefix/suffix products, Kadane's algorithm, two-pointer 3Sum, prefix sum hash maps, and rotated binary search:
   1. Product of Array Except Self (`ProductOfArrayExceptSelf.java`)
   2. Maximum Subarray (`MaximumSubarray.java`)
