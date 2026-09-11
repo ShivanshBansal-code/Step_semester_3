@@ -3,6 +3,25 @@
 ## Date: 11-09-2026
 
 **Today's Work:**
+- Solved 5 assignment problems for Session 4 (Topic: `session_4_assignment`) covering arrays, prefix/suffix products, Kadane's algorithm, two-pointer 3Sum, prefix sum hash maps, and rotated binary search:
+  1. Product of Array Except Self (`ProductOfArrayExceptSelf.java`)
+  2. Maximum Subarray (`MaximumSubarray.java`)
+  3. 3Sum (`ThreeSum.java`)
+  4. Subarray Sum Equals K (`SubarraySumEqualsK.java`)
+  5. Find Minimum in Rotated Sorted Array (`FindMinimumInRotatedSortedArray.java`)
+- Created clean package directory structure under `src/main/java/session_4_assignment/` with `class_problems/` and `assigment_problems/`.
+- Verified compilation and tested all sample test cases successfully.
+- Committed and pushed the implementation to branch `feature/session_4`.
+
+**Next Session Plan:**
+- Work on Session 5 class and assignment problems.
+
+**Issues Faced:**
+- None
+
+## Date: 11-09-2026
+
+**Today's Work:**
 - Solved 5 assignment problems for Session 3 (Topic: `session_3_assignment`) covering OOP fundamentals, classes, objects, fields, constructors, and static members:
   1. Simple Book Record Class (`Book.java`)
   2. Two Objects, Two Separate Occupancy Counts (`ExamHall.java`)
