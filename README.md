@@ -3,6 +3,24 @@
 ## Date: 11-09-2026
 
 **Today's Work:**
+- Added 5 Day 2 live-coding class problems to `feature/session_2` under `src/main/java/session_2_assignment/class_problems/`:
+  1. Vowel & Consonant Counter (`VowelConsonantCounter.java`)
+  2. CSV Student Record Parser (`CsvStudentRecordParser.java`)
+  3. File Extension Validator (`FileExtensionValidator.java`)
+  4. Masked Phone Number Formatter (`MaskedPhoneNumberFormatter.java`)
+  5. Bank Transaction Reference Generator & Validator (`BankTransactionReferenceValidator.java`)
+- Verified compilation and executed test cases matching sample outputs.
+- Committed and pushed to `feature/session_2`.
+
+**Next Session Plan:**
+- Continue with upcoming session live-coding problems and assignments.
+
+**Issues Faced:**
+- None
+
+## Date: 11-09-2026
+
+**Today's Work:**
 - Added 5 Day 1 live-coding class problems to `feature/session_1` under `src/main/java/session_1_assignment/class_problems/`:
   1. Rock-Paper-Scissors Game (`RockPaperScissorsGame.java`)
   2. Palindrome Checker with 3 approaches: iterative, recursive, array reversal (`PalindromeChecker.java`)
