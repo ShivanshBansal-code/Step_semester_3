@@ -3,6 +3,24 @@
 ## Date: 11-09-2026
 
 **Today's Work:**
+- Added 5 Day 1 live-coding class problems to `feature/session_1` under `src/main/java/session_1_assignment/class_problems/`:
+  1. Rock-Paper-Scissors Game (`RockPaperScissorsGame.java`)
+  2. Palindrome Checker with 3 approaches: iterative, recursive, array reversal (`PalindromeChecker.java`)
+  3. BMI Calculator for a Team (`BmiCalculatorForTeam.java`)
+  4. First Non-Repeating Character (`FirstNonRepeatingCharacter.java`)
+  5. Reverse Customer Name (`ReverseCustomerName.java`)
+- Verified compilation and executed test cases matching sample outputs.
+- Committed and pushed to `feature/session_1`.
+
+**Next Session Plan:**
+- Continue with upcoming session live-coding problems and assignments.
+
+**Issues Faced:**
+- None
+
+## Date: 11-09-2026
+
+**Today's Work:**
 - Solved 5 assignment problems for Session 5 (Topic: `session_5_assignment`) covering array modification by reference, nested loops duplicate checking, single-pass min/max tracking, 2D array row averaging, and auto-draft ranking with `Comparable<Player>` and method overloading:
   1. Fantasy Team Score Multiplier (`FantasyTeamScoreMultiplier.java`)
   2. Duplicate Player Pick Checker (`DuplicatePlayerPickChecker.java`)
