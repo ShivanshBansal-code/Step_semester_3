@@ -1,5 +1,23 @@
 # Step_semester_3
 
+## Date: 19-09-2026
+
+**Today's Work:**
+- Added 5 Session 4 live-coding class problems to `feature/session_4` under `src/main/java/session_4_assignment/class_problems/`:
+  1. Two Sum (`TwoSum.java`)
+  2. Best Time to Buy and Sell Stock (`BestTimeToBuyAndSellStock.java`)
+  3. Contains Duplicate (`ContainsDuplicate.java`)
+  4. Merge Two Sorted Arrays (`MergeTwoSortedArrays.java`)
+  5. Rotate Array (`RotateArray.java`)
+- Verified compilation and executed test cases matching sample outputs.
+- Committed and pushed to `feature/session_4`.
+
+**Next Session Plan:**
+- Continue with upcoming session live-coding problems and assignments.
+
+**Issues Faced:**
+- None
+
 ## Date: 11-09-2026
 
 **Today's Work:**
